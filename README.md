@@ -1,5 +1,5 @@
 # generative-art-processing
-A collection of generative artworks created using Processing. Some pieces created using Python, others created with P5JS. 
+A collection of generative artworks created using Processing. Some pieces created using Python, others created with P5JS. Feel free to use any of this code to learn from or to make your own pieces. 
 
 Perlin Noise Circles
 
