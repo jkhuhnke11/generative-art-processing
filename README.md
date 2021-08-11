@@ -15,7 +15,9 @@ Crazy Circles
 
 ![image4548](https://user-images.githubusercontent.com/51367943/129049252-2814cd1f-a8d8-45a4-837d-6a17c8ec795d.png)
 
-Pixel Sorting
+Pixel Sorting (Glitch Effect)
+
+![image17](https://user-images.githubusercontent.com/51367943/129098761-83aeb09b-65fb-4b09-869a-e9cc281e1584.png)
 
 Portraits with Lines
 
