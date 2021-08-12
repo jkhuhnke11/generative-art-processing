@@ -32,3 +32,5 @@ Random Circles
 Perlin Noise Circles
 
 ![Example 3](https://user-images.githubusercontent.com/51367943/128908095-259baa1f-24dc-4440-ba42-0ab50fdf2d10.PNG)
+
+If you enjoyed this repo, please consider donating a little to my Paypal at: huhnkejessica@gmail.com. Tips allow me the time to create additional works. 
