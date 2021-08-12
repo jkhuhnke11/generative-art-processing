@@ -23,6 +23,8 @@ Pixel Sorting (Glitch Effect)
 
 Portraits with Lines
 
+![image17](https://user-images.githubusercontent.com/51367943/129119584-fa7b2e3c-bf27-481b-98a4-0ff3f68e016f.png)
+
 Random Circles
 
 ![image4559](https://user-images.githubusercontent.com/51367943/129049282-43367eba-8122-4704-8800-d4e8e848c60e.png)
